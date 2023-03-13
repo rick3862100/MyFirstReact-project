@@ -69,22 +69,22 @@
   gap: 1rem;
 }
 
-.layout-header {
+.layout__header {
   grid-area: header;
   padding: 0;
   height: auto;
   line-height: 1.6;
 }
 
-.layout-main {
+.layout__main {
   grid-area: main;
 }
 
-.layout-descriptions {
+.layout__descriptions {
   grid-area: desc;
 }
 
-.layout-footer {
+.layout__footer {
   grid-area: footer;
   padding: 0;
   height: auto;
