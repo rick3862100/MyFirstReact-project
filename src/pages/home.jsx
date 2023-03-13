@@ -1,12 +1,14 @@
-import Header from "../components/header";
-import Main from "../components/main";
-import Footer from "../components/footer";
+import Header from "../components/Header";
+import Main from "../components/Main";
+import Description from "../components/Description";
+import Footer from "../components/Footer";
 
 function Home() {
     return(
         <div className="container">
             <Header className="layout-header" />
             <Main className="layout-main"/>
+            <Description className="layout-descriptions" />
             <Footer className="layout-footer"/>
         </div>
     );

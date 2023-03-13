@@ -1,0 +1,20 @@
+/* Image Style */
+
+  .image__link {
+    display: block;
+  }
+  
+  .image__style {
+    width: 100%;
+    display: block;
+  }
+  
+  .image__title {
+    color: white;
+    right: 2rem;
+    bottom: 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    position: absolute;
+  }
+  

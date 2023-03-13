@@ -1,0 +1,54 @@
+[
+
+    {
+        "id" : 1,
+        "image__src" : "public/images/img1.jpg" ,
+        "image__title" : "PLACE 1"
+    },
+
+    {
+        "id" : 2,
+        "image__src" : "public/images/img2.jpg" ,
+        "image__title" : "PLACE 2"
+    },
+
+    {
+        "id" : 3,
+        "image__src" : "public/images/img3.jpg" ,
+        "image__title" : "PLACE 3"
+    },
+
+    {
+        "id" : 4,
+        "image__src" : "public/images/img4.jpg" ,
+        "image__title" : "PLACE 4"
+    },
+
+    {
+        "id" : 5,
+        "image__src" : "public/images/img5.jpg" ,
+        "image__title" : "PLACE 5"
+    },
+
+    {
+        "id" : 6,
+        "image__src" : "public/images/img6.jpg" ,
+        "image__title" : "PLACE 6"
+    },
+
+    {
+        "id" : 7,
+        "image__src" : "public/images/img7.jpg" ,
+        "image__title" : "PLACE 7"
+    },
+
+    {
+        "id" : 8,
+        "image__src" : "public/images/img8.jpg" ,
+        "image__title" : "PLACE 8"
+    }
+
+
+
+
+]
