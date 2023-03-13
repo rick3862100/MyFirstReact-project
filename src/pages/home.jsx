@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 
 function Home() {
     return(
-        <div className="container">
+        <div className="container main-layout">
             <Header className="layout__header" />
             <Main className="layout__main"/>
             <Description className="layout__descriptions" />
