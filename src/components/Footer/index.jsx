@@ -1,4 +1,5 @@
-import styles from './footer.css'
+import { Row, Col } from 'antd'
+import styles from './footer.module.css'
 
 export default function Footer() {
     return (

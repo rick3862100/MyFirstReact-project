@@ -1,7 +1,6 @@
+
 .container {
   width: 100%;
-  display: flex;
-  align-self: center;
   margin: auto;
 }
 
@@ -59,21 +58,18 @@
 .main-layout {
   display: grid;
   min-height: 100vh;
+  min-width: 100vw;
   grid-template-areas:
     'header'
     'main'
     'desc'
     'footer'
   ;
-  grid-template-rows: auto 1fr 1fr auto;
-  gap: 1rem;
+  grid-template-rows: auto 1fr auto ;
 }
 
 .layout__header {
   grid-area: header;
-  padding: 0;
-  height: auto;
-  line-height: 1.6;
 }
 
 .layout__main {
@@ -86,7 +82,4 @@
 
 .layout__footer {
   grid-area: footer;
-  padding: 0;
-  height: auto;
-  line-height: 1.6;
 }
